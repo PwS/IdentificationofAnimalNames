@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IdentificationofAnimalNames</string>
+    <string name="play">Play</string>
+    <string name="about">About</string>
+    <string name="close">Close</string>
+    <string name="name">Name</string>
+</resources>
